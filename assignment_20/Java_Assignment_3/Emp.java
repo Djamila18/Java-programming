@@ -18,11 +18,12 @@ public class Emp {
         Address address1= new Address("Kigali","Rwanda","Rwanda");
         Address address2= new Address("Kampala","Malala","Uganda");
 
-        Emp e= new Emp(100,"EVODE",address1);
-        Emp e1= new Emp(200,"Adolphe",address2);
+        Emp e= new Emp(100,"Djamilla",address1);
+        Emp e1= new Emp(200,"Djamila Niyigena",address2);
         e.display();
         e1.display();
 
     }
 
 }
+
