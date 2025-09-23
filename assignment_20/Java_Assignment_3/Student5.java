@@ -22,11 +22,13 @@ public class Student5 {
             System.out.println(this.id+" "+this.name+" "+this.age);
         }
         public  static void main(String []args){
-            Student5 s1=new Student5(100,"EVODE");
-            Student5 s2=new Student5(200,"Adolphe",20);
+            Student5 s1=new Student5(100,"elina");
+            Student5 s2=new Student5(200,"Djamilla
+                                     ",20);
             s1.display();
             s2.display();
         }
     }
+
 
 
