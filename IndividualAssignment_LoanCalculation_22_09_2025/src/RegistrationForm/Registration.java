@@ -1,3 +1,5 @@
+//Niyigena Djamila 223017067
+
 package RegistrationForm;
 
 import java.awt.Color;
@@ -86,4 +88,5 @@ public class Registration extends JFrame implements ActionListener {
     
 		
 	}
+
 }
